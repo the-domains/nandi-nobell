@@ -12,23 +12,23 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.9307196
+  saturation: 0.6568206
   brandStrength: 0.2870524537283927
-  lightness: 0.8147153
+  lightness: 0
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  rhythmicContrast: 0.2612207
+  rhythmicContrast: 0.6525242
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/66518be9-c20f-4a81-a3ff-4f9ca0436e30.svg
+name: Nandi Nobell
 author:
   name: Nandi Nobell
   email: nandi.nobell@gmail.com
-name: Nandi Nobell
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d09107c7-c310-42fb-8847-c4fe70dc5bf7.svg
-typography_spectrum: 0.894918748177588
-layout_spectrum: 0.2875583420973271
+typography_spectrum: 0.697637
+layout_spectrum: 0.9586466
